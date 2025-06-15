@@ -1,0 +1,5 @@
+body { font-family: Arial, sans-serif; margin: 20px; }
+#todo-list { list-style: none; padding: 0; }
+#todo-list li { padding: 10px; border-bottom: 1px solid #ddd; }
+#todo-list li.completed { text-decoration: line-through; color: gray; }
+button { margin-left: 10px; }
